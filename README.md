@@ -20,7 +20,7 @@ Sou apaixonado por programação e gosto de me desafiar constantemente a encontr
 
 
 
-[![MaykRD stats](https://github-readme-stats.vercel.app/api?username=MaykRD)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaykRD)](https://github.com/anuraghazra/github-readme-stats)
+
 
