@@ -22,6 +22,11 @@ Sou apaixonado por programação e gosto de me desafiar constantemente a encontr
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaykRD&layout=compact)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaykRD&show_icons=true&theme=radical)
+
+
+
+
 
 
 
