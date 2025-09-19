@@ -5,7 +5,13 @@ Meu nome é Mayk Rodrigues, sou um programador front-end em ascensão. Atualment
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="logo-html"><br>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="logo-css"><br>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="logo-js"><br>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="logo-react">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="logo-react"><br>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF" alt="logo-git"><br>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="logo-github"><br>
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=FFFFFF" alt="logo-tailwind">
+
+
+
 
 
 Sou apaixonado por programação e gosto de me desafiar constantemente a encontrar soluções criativas e inovadoras para problemas complexos. Busco sempre me manter atualizado com as últimas tendências e tecnologias do setor para garantir que meus projetos estejam sempre na vanguarda do desenvolvimento web.<br>
